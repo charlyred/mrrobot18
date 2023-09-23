@@ -2,7 +2,7 @@
     font-size: 44px; /*tamaño base*/
 }
 body {
-    background-color: blueviolet; /*Commit 1 en CSS*/
+    background-color: rgb(83, 189, 213); /*Commit 1 en CSS*/
     color: #111;
     padding-left: 11em;
 }
